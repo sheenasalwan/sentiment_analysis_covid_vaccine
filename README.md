@@ -6,16 +6,15 @@ Sentiment analysis of covid vaccine data collected from twitter
   - Setup developer account for TwitterAPI
   - Use python Tweepy to connect the API
   - Extract data related to Covid19 Vaccine
-  - type of features
 ### Data Exploring
-  - load data in data frame
-  - check data types
-  - check missing values
+  - Load data in data frame
+  - Check data types
+  - Check missing values
 ### Text Cleaning and Processing
-  - convert text to lowercase
-  - process text to remove url, punctuation, stopwords
-  - lemmatization
-  - convert emoji to text
+  - Convert text to lowercase
+  - Process text to remove url, punctuation, stopwords
+  - Lemmatization
+  - Convert emoji to text
 ### Feature Extraction
   - Average length of sentence
   - make pipeline
