@@ -17,7 +17,6 @@ Sentiment analysis of covid vaccine data collected from twitter
   - Convert emoji to text
 ### Feature Extraction
   - Average length of sentence
-  - make pipeline
-  - column tranformer
+
 
   
