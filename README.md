@@ -10,8 +10,6 @@ Sentiment analysis of covid vaccine data collected from twitter
   - Process text to remove url, punctuation, stopwords
   - Lemmatization
   - Convert emoji to text
-### Feature Extraction
-  - Average length of sentence
 ### Perform Sentiment Analysis
   - NLTK VADER
   - TextBlob
