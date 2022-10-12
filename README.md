@@ -13,7 +13,6 @@ Sentiment analysis of covid vaccine data collected from twitter
 ### Perform Sentiment Analysis
   - NLTK VADER
   - TextBlob
-  - Stanza
 ### Text Vectorization
   - Statisic Approach
     - Bag of words
